@@ -1,0 +1,6 @@
+*.log
+!error.log
+tmp/
+.env
+.gitignor
+
