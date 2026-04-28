@@ -1,0 +1,285 @@
+    1  git clone git@github.com:andriienkoinga-oss/200226-wdm.git
+    2  ls -la
+    3  cd 200226-wdm/
+    4  ls -la
+    5  ls -la .git/
+    6  cd 200226-wdm/
+    7  cd 200226-wdm/
+    8  mkdir dir
+    9  ls -la
+   10  cd dir/
+   11  nano song.txt
+   12  ls -la
+   13  nano song.txt
+   14  git init
+   15  ls -la
+   16  date >> date-file.txt
+   17  ls -la
+   18  git ststus
+   19  git status
+   20  git add .
+   21  git status
+   22  git commit -m "Inital commit"
+   23  git status
+   24  git log
+   25  nano song.txt 
+   26  gir status
+   27  git status
+   28  git commit -am "Add lines"
+   29  git log
+   30  git remote add origin git@github.com:andriienkoinga-oss/200226-wdm-dir.git
+   31  git remote -v
+   32  [200~
+   33  git branch -v
+   34  git push -u origin main
+   35  git pull
+   36  git pull
+   37  git log
+   38  exit
+   39  git config --global user.name "Inha Andriienko"
+   40  git config --global user.email "andriienkoinga@gmail.com"
+   41  [200~
+   42  git config --global -l
+   43  cd E:\ich\git
+   44  cd E:\ich\git\
+   45  cd E:\ich\git\
+   46  git clone git@github.com:andriienkoinga-oss/test-github.git
+   47  git init
+   48  cp  C:/Users/NITRO5/.git/ E:\ich\git
+   49  cp  -r C:/Users/NITRO5/.git/ E:\ich\git
+   50  init
+   51  git init
+   52  cp  -r C:/Users/NITRO5/.git/ E:\ich\git
+   53  git clone git@github.com:andriienkoinga-oss/test-github.git $ cp E:\ich\git\
+   54  git clone git@github.com:andriienkoinga-oss/test-github.git E:\ich\git\
+   55  git init
+   56  ls -la E:\ich\git\
+   57  exit
+   58  git clone git@github.com:andriienkoinga-oss/test-github.git E:\ich\git\
+   59  git clone git@github.com:andriienkoinga-oss/test-github.git E:\ich\git\
+   60  git clone git@github.com:andriienkoinga-oss/test-github.git 
+   61  exit
+   62  git clone git@github.com:andriienkoinga-oss/test-github.git
+   63  git init
+   64  git status
+   65  git clone git@github.com:andriienkoinga-oss/test2.git E:\ich\git\
+   66  git clone git@github.com:andriienkoinga-oss/test2.git 
+   67  git add .
+   68  git add file.txt
+   69  git clone git@github.com:andriienkoinga-oss/test2.git 
+   70  git clone git@github.com:andriienkoinga-oss/test4.git
+   71  git init
+   72  echo "test" >> README.md
+   73  git status
+   74  git commit -m "test"
+   75  git add file.txt README.md
+   76  git add README.md
+   77  git status
+   78  git commit -m "test"
+   79  git status
+   80  git push -u origin main
+   81  git log
+   82  git remote add origin git@github.com:andriienkoinga-oss/test4.git
+   83  git remote -v
+   84  git push -u origin main
+   85  touch file.txt
+   86  ls -la
+   87  git 
+   88  git clone git@github.com:andriienkoinga-oss/test4.git
+   89  cp -r git@github.com:andriienkoinga-oss/test4.git E:\ich\git
+   90  clone git@github.com:andriienkoinga-oss/test4.git E:\ich\git
+   91  git clone git@github.com:andriienkoinga-oss/test4.git E:\ich\git
+   92  cd E:\ich\git\22_04_2026\
+   93  cd E:\ich\git\22_04_2026
+   94  E:\ich\git\22_04_2026
+   95  cd E:\ich\git\22_04_2026\
+   96  git clone git@github.com:andriienkoinga-oss/git-intro.git
+   97  git add file.txt
+   98  echo "Hello" >> file.txt
+   99  git add file.txt
+  100  git init 
+  101  git add file.txt
+  102  ls -la
+  103  cd / git-intro/
+  104  cd git-intro/
+  105  git add file.txt
+  106  ls -la
+  107  git add file.txt
+  108  git add file2.txt
+  109  echo "Hello" >> file.txt
+  110  ls -la
+  111  echo "Hello" >> file.txt
+  112  git add file.txt
+  113  git status
+  114  git add file2.txt
+  115  echo "Linux" >> file2.txt
+  116  git add file2.txt
+  117  echo "Linux" >> file3.txt
+  118  git status
+  119  git add file3.txt
+  120  git status
+  121   git commit -m "Inital commit"
+  122  git log
+  123  git remote -v
+  124  git push -u origin main
+  125  git clone git@github.com:andriienkoinga-oss/git_intro.git
+  126  git init
+  127  git status
+  128  git add  E:/ich/linux/foto/first.jpg
+  129  git add first.jpg
+  130  git status
+  131  git add 
+  132  git add first.jpg
+  133  git add second.jpg
+  134  git status
+  135  git commit -m "Added photo"
+  136  git status
+  137  git add git_intro/
+  138   git remote add origin git@github.com:andriienkoinga-oss/git_intro.git
+  139   git remote -v
+  140  git push -u origin main
+  141  git clone git@github.com:andriienkoinga-oss/git_intro.git
+  142  git init
+  143  git status
+  144  git clone git@github.com:andriienkoinga-oss/200226-wdm.git
+  145  touch file_test.txt
+  146  date >> file_test.txt 
+  147  git add file_test.txt 
+  148  git add .
+  149  git init
+  150  git add file_test.txt 
+  151  git status
+  152  git commit -m "first commit"
+  153  git status
+  154  git add 200226-wdm/
+  155  git branch -a
+  156  git log
+  157  git branch <test>
+  158  git branch test
+  159  git branch -a
+  160  git branch -d test
+  161  git branch -a
+  162  git checkout -b newBranch
+  163  git branch -a
+  164  ls -la
+  165  date >> date-file.txt
+  166  git status
+  167  git add .
+  168  git add date-file.txt 
+  169  git commit -m "add file with date"
+  170  git log
+  171  git status
+  172  git log
+  173  ls -la
+  174  git checkout main 
+  175  ls -la
+  176  git checkout newBranch 
+  177  ls -la
+  178  git branch -v
+  179  git branch -a
+  180  nano file_test.txt 
+  181* 
+  182  git commit -m "add new tekst"
+  183  git status
+  184* git commit -m "add new tekst"
+  185  git commit -m "add new tekst"
+  186  git add file_test.txt 
+  187  git commit -m "add new tekst"
+  188  git status
+  189  ls -la
+  190  git branch -a
+  191  git checkout main 
+  192  ls -la
+  193  cat file_test.txt 
+  194  git checkout newBranch 
+  195  cat file_test.txt 
+  196  git checkout newBranch 
+  197  git log --oneline
+  198  git checkout main 
+  199  git log --all --oneline
+  200  git checkout newBranch 
+  201  git log 
+  202  git checkout  ee096695
+  203  git log 
+  204  cat file_test.txt 
+  205  ls -la
+  206  cp file_test.txt ~/tmp/
+  207  git checkout newBranch 
+  208  git checkout main 
+  209  nano file_test.txt 
+  210  git add file_test.txt 
+  211  git commit -m "add new text in line main"
+  212  cat file_test.txt 
+  213  git checkout newBranch 
+  214  cat file_test.txt 
+  215  git checkout main 
+  216  file1.log
+  217  mkdir tmp
+  218  touch file1.log
+  219  git status
+  220  mkdir tmp/
+  221  ls -la
+  222  git status
+  223  nano .gitignor
+  224  git status
+  225  nano .gitignor
+  226  git status
+  227  nano .gitignor
+  228  git status
+  229  touch error.log
+  230  nano .gitignore
+  231  git status
+  232  nano .gitignore
+  233  git checkout newBranch 
+  234  ls -la
+  235  git checkout main 
+  236  nano file_test.txt 
+  237  git checkout newBranch 
+  238  git stash save "edit file_test.txt"
+  239  git checkout newBranch 
+  240  echo "this is date" >> date-file.txt 
+  241  git status 
+  242  git add date-file.txt 
+  243  git commit -m "edit data-file.txt"
+  244  git checkout main 
+  245  git status
+  246  git branch -v
+  247  git stash list
+  248  git stash pop stash@{0}
+  249  git stash list
+  250  git status
+  251  cat file_test.txt 
+  252  git log
+  253  git checkout .
+  254  cat file_test.txt 
+  255  > 123
+  256  mkdir TMP
+  257  mkdir TMP1
+  258  > TMP/456
+  259  git status
+  260  git clean -xdn
+  261  git add .gitifnore
+  262  git add .gitignore
+  263  git clean -xdn
+  264  git clean -xdf
+  265  git clean -xdn
+  266  git log --oneline
+  267  git show [200~
+  268  git show ee09669
+  269  git status
+  270  git add 200226-wdm
+  271  git add 200226-wdm/
+  272  git add /200226-wdm
+  273  git add /200226-wdm/
+  274  git commit -m "add file .gitignore"
+  275  git status
+  276  git log --oneline
+  277  git show -s --pretty=raw ee09669
+  278  git ls-tree  118127a7
+  279  git remote add origin git@github.com:andriienkoinga-oss/200226-wdm.git
+  280  git push -u origin main
+  281  git checkout newBranch 
+  282  git remote add origin git@github.com:andriienkoinga-oss/200226-wdm.git
+  283  git remote add originnext git@github.com:andriienkoinga-oss/200226-wdm.git
+  284  git push -u originnext newBranch 
+  285  history >> history-file-newBranch.txt
